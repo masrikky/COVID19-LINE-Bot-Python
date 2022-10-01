@@ -29,7 +29,7 @@ deaths = "{:,}".format(parse_deaths)
 #Setup Message Api payload
 str_main_message = "Update COVID-19 di Indonesia\n\n"
 str_author = "Rikky"
-str_github_link = "https://github.com/rikkyk/COVID19-LINE-Bot-Python"
+str_github_link = "https://github.com/masrikky/COVID19-LINE-Bot-Python"
 str_confirmed = "Terkonfirmasi : "
 str_confirmed_api = str(confirmed)
 str_recovered = "Sembuh : "
